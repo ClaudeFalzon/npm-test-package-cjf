@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ClaudeFalzon/npm-test-package-cjf/issues"
   },
-  "homepage": "https://github.com/ClaudeFalzon/npm-test-package-cjf#readme"
+  "homepage": "https://github.com/ClaudeFalzon/npm-test-package-cjf#readme",
+  "dependencies": {
+    "np": "^7.6.0"
+  }
 }
