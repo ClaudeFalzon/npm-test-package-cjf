@@ -1,4 +1,4 @@
-## first npm package
+npm np## first npm package
 
 ### my-test-package-one
 
